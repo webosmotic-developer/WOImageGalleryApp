@@ -1,0 +1,7 @@
+{
+  "name": "WOImageGallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
